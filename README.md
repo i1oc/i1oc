@@ -1,6 +1,6 @@
 # Pablo Santiago Hernández Muñoz
 
-IA & Mathematical Engineering @ ICAI, Madrid, 3rd year
+IA & Mathematical Engineering @ ICAI, Madrid
 
 I gravitate toward low-level systems and how things work underneath.
 Most of my academic work is in Python: ML, deep learning, NLP, computer vision,
