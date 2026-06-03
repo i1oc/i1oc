@@ -15,7 +15,7 @@ and applied cryptography. Interested in offensive security and part of the **ICA
 
 **Languages**
 
-C · C++ · Rust · Python · JavaScript · SQL · Java
+C · C++ · Rust · Python · JavaScript · Java
 
 **Backend & infra**
 
