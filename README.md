@@ -1,16 +1,33 @@
-## Hi there 👋
+# Pablo Santiago Hernández Muñoz
 
-<!--
-**i1oc/i1oc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IA & Mathematical Engineering @ ICAI — Madrid, 3rd year
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I gravitate toward low-level systems and how things work underneath.
+Most of my academic work lives in Python — ML, numerical methods, optimization —
+but I prefer languages that keep you close to the machine.
+
+Interested in privacy, cryptography, and offensive security.
+Part of the **ICAI Cyber Team**, competing in CTFs.
+
+---
+
+**Languages**
+
+C · C++ · Rust · Python · JavaScript · SQL · Java
+
+**Backend & infra**
+
+FastAPI · Django · Node.js · PostgreSQL · MongoDB · Redis · Neo4j
+
+**Areas**
+
+- Machine learning and probabilistic models
+- Low-level systems and memory-safe programming
+- Applied cryptography and privacy
+- CTF / offensive security
+
+---
+
+`i1oc`
