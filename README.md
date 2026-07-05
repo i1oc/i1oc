@@ -19,7 +19,7 @@ C · C++ · Rust · Python · Java
 
 **Backend & infra**
 
-FastAPI · Django · Node.js · PostgreSQL · MongoDB · Redis · Neo4j · Docker
+FastAPI · Django · PostgreSQL · MongoDB · Redis · Neo4j · Docker
 
 ---
 
